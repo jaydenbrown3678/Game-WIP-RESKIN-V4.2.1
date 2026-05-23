@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"k_check",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"k_check",
+  "parent":{
+    "name":"shortcuts",
+    "path":"folders/Scripts/shortcuts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

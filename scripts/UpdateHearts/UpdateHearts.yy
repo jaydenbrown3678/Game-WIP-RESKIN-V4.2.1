@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"UpdateHearts",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"UpdateHearts",
+  "parent":{
+    "name":"Characters",
+    "path":"folders/Scripts/Characters.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

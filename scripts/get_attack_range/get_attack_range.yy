@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_attack_range",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_attack_range",
+  "parent":{
+    "name":"Characters",
+    "path":"folders/Scripts/Characters.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"simulate_key_press",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"simulate_key_press",
+  "parent":{
+    "name":"Characters",
+    "path":"folders/Scripts/Characters.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
